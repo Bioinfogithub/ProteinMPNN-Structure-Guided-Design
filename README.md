@@ -66,7 +66,7 @@ ProteinMPNN-Structure-Guided-Design/
 ├── case_studies/
 │   ├── Sotrovimab/
 │   │   └── README.md
-│   └── VCP-DPBB/
+│   └── VCP-Domain/
 │       └── README.md
 │
 ├── results/
@@ -83,15 +83,15 @@ ProteinMPNN-Structure-Guided-Design/
 
 Two case-study folders are included as **examples of how this framework can be used**:
 
-### 1. Sotrovimab antibody redesign
+### 1. Sotrovimab redesign
 
 A structure-guided antibody redesign example can be used to study sequence changes around an antibody–antigen interface.
 
 The folder is intentionally kept as a case-study framework rather than claiming new ProteinMPNN-generated results.
 
-### 2. VCP-DPBB redesign
+### 2. VCP-Domain redesign
 
-The VCP-DPBB project provides a relevant protein-domain redesign example involving structure-guided and AI-assisted sequence design.
+The VCP project provides a relevant protein-domain redesign example involving structure-guided and AI-assisted sequence design.
 
 The case-study folder is designed to document the workflow and connect ProteinMPNN with downstream structural and simulation-based analysis.
 
