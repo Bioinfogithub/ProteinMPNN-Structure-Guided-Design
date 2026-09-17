@@ -1,0 +1,13 @@
+# Generic ProteinMPNN design configuration
+input_structure: "input_structure.pdb"
+designed_chains:
+  - A
+fixed_positions: []
+num_sequences: 32
+sampling_temperatures:
+  - 0.1
+  - 0.2
+  - 0.3
+random_seed: 42
+
+# These are workflow parameters, not validated project-specific settings.
